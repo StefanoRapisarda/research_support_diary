@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "At this point, I should say that this blog was born from a noble desire to help researchers of all disciplines or to fulfill my lifelong devotion to serving research and science in all possible forms…\nWell… no.\nThroughout my research-related roles over the past decade, I often found myself spending (investing?) considerable time on tasks and projects that rarely made it into the glorious world of peer-reviewed, published, or even recognized research outputs.\nYet, I believe there is still value—and definitely some fun—in all those hours spent on “less fortunate” projects. This blog aims to carve out a small space for that work and remind myself not to give up doing things purely out of curiosity. (By the end of this little speech, I’m already sensing a growing sense of commitment, so it is serving the purpose already)\n\nI see… but who are you?\nI’m Stefano Rapisarda: physicist, astrophysicist (PhD), postdoc-turned-research data and software consultant, data steward, Python developer, AI enthusiast, mother of dragons, and so on. As a matter of fact, just an everlasting student with some technical expertise, a decent brain with short memory, and about a thousand hobbies."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
