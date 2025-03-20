@@ -11,6 +11,7 @@ about:
       text: LinkedIN
       href: https://www.linkedin.com/in/stefanorapisarda/
     - icon: mailbox
+      text: Contact me
       href: s.rapisarda86@gmail.com
 ---
 
@@ -20,9 +21,8 @@ Well... no.
 
 Throughout my research-related roles over the past decade, I often found myself spending (investing?) considerable time on tasks and projects that rarely made it into the glorious world of peer-reviewed, published, or even recognized research outputs.
 
-Yet, I believe there is still value—and definitely some fun—in all those hours spent on "less fortunate" projects. This blog aims to carve out a small space for that work and remind myself not to give up doing things purely out of curiosity. (By the end of this little speech, I’m already sensing a growing sense of commitment, so it is serving the purpose already)
+Yet, I believe there is still value—and definitely some fun—in all those hours spent on "less fortunate" projects. This blog aims to carve out a small space for that work and remind myself not to give up doing things purely out of curiosity. (By the end of this little speech, I’m already feeling a growing sense of commitment, so it is serving the purpose already)
 
 # I see... but who are you?
 
-I’m Stefano Rapisarda: physicist, astrophysicist (PhD), postdoc-turned-research data and software consultant, data steward, Python developer, AI enthusiast, mother of dragons, and so on. As a matter of fact, just an everlasting student with some technical expertise, a decent brain with short memory, and about a thousand hobbies.
-
+I’m Stefano Rapisarda: physicist, astrophysicist (PhD), postdoc-turned-research data and software consultant, data steward, Python developer, AI enthusiast, Barrel-Rider, Mother of Dragons, and so on. As a matter of fact, just an everlasting student with some technical expertise, a decent brain with short memory, and about a thousand hobbies.

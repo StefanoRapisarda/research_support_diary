@@ -5,6 +5,8 @@ project:
 website:
   title: "Research Support Diary"
   navbar:
+    background: '#000000'
+    foreground: '#ffffff'
     right:
       - about.qmd
       - icon: github
